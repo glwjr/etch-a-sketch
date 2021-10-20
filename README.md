@@ -1,1 +1,1 @@
-# etch-a-sketch
+JavaScript Etch-a-Sketch created following The Odin Project's curriculum.
