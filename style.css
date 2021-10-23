@@ -44,12 +44,12 @@ body {
 
 #clear-button,
 #resize-button {
-    margin: 1rem;
+    margin: 2rem;
     padding: 1rem;
 }
 
 #footer {
-    position: fixed;
+    position: relative;
     bottom: 0;
     left: 0;
     width: 100%;
