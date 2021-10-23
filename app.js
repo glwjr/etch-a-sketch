@@ -31,6 +31,9 @@ function resize() {
     if (parseInt(size) > 64) {
         alert("Please enter a number less than 65.")
         return
+    } else if (size == "" || isNaN(size)) {
+        alert("Please enter a number.")
+        return
     } else {
         container.innerHTML = "";
         createGrid(size);
