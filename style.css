@@ -46,6 +46,7 @@ body {
 #resize-button {
     margin: 2rem;
     padding: 1rem;
+    width: 10rem;
 }
 
 #footer {
